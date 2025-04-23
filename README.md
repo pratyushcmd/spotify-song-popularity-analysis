@@ -11,9 +11,9 @@ Hi! I’m super excited to share my project where I explored a huge Spotify data
 
 ## What did I learn?
 
-- Songs that are more danceable and energetic are often more popular!
+- Songs that are more danceable and energetic are often more popular
 - Some artists and genres appear again and again in the top tracks.
-- Visualizing the data made it easy (and fun!) to spot trends I wouldn’t have noticed otherwise.
+- Visualizing the data made it easy to spot trends I wouldn’t have noticed otherwise.
 - I learned a lot about working with real-world data and using Python for data analysis.
 
 ## How to use this notebook
